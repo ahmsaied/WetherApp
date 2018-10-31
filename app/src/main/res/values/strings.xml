@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session 36</string>
+    <string name="tv_1">Day:</string>
+    <string name="tv_2">Date:</string>
+    <string name="tv_3">High:</string>
+    <string name="tv_4">Low:</string>
+    <string name="tv_5">Wind Speed:</string>
+    <string name="tv_6">Humidity:</string>
+    <string name="tv_7">Pressure:</string>
+</resources>
